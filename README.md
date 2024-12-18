@@ -3,7 +3,7 @@
 
 #### This is my GitHub Profile.
 
-#### About me
+### About me
 
 - 💻 Undergraduate Science Computer student at UFCG
 - 🎈 21 years old
